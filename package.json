@@ -1,0 +1,46 @@
+{
+  "name": "vue-pdf-canvas-viewer-pkg",
+  "version": "0.1.0",
+  "description": "A Vue 3 component to preview PDF files using canvas (based on pdfjs-dist)",
+  "type": "module",
+  "main": "dist/index.umd.js",
+  "module": "dist/index.es.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "peerDependencies": {
+    "pdfjs-dist": "^5.4.530",
+    "vue": "^3.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "@vitejs/plugin-vue": "^6.0.1",
+    "@vue/tsconfig": "^0.8.1",
+    "typescript": "~5.9.3",
+    "vite": "^7.2.4",
+    "vue-tsc": "^3.1.4"
+  },
+  "keywords": [
+    "vue3",
+    "pdf",
+    "canvas",
+    "pdfjs",
+    "component",
+    "preview"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ton-repo/vue-pdf-canvas-viewer-pkg",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ton-repo/vue-pdf-canvas-viewer-pkg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ton-repo/vue-pdf-canvas-viewer-pkg/issues"
+  }
+}
