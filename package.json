@@ -2,6 +2,7 @@
   "name": "vue-pdf-canvas-viewer-pkg",
   "version": "0.1.1",
   "description": "A Vue 3 component to preview PDF files using canvas (based on pdfjs-dist)",
+  "author": "phf-dev221",
   "type": "module",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
@@ -35,12 +36,12 @@
     "preview"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/ton-repo/vue-pdf-canvas-viewer-pkg",
+  "homepage": "https://github.com/phf-dev221/vue-pdf-canvas-viewer-pkg#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ton-repo/vue-pdf-canvas-viewer-pkg.git"
+    "url": "https://github.com/phf-dev221/vue-pdf-canvas-viewer-pkg.git"
   },
   "bugs": {
-    "url": "https://github.com/ton-repo/vue-pdf-canvas-viewer-pkg/issues"
+    "url": "https://github.com/phf-dev221/vue-pdf-canvas-viewer-pkg/issues"
   }
 }
