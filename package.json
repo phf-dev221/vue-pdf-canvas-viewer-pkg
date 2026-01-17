@@ -1,6 +1,6 @@
 {
   "name": "vue-pdf-canvas-viewer-pkg",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Vue 3 component to preview PDF files using canvas (based on pdfjs-dist)",
   "type": "module",
   "main": "dist/index.umd.js",
