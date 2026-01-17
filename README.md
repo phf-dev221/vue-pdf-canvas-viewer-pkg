@@ -1,7 +1,3 @@
-Voici une version propre et structurée de votre documentation en Markdown, optimisée pour la lisibilité et sans icônes.
-
----
-
 # Vue PDF Canvas Viewer
 
 Un composant Vue 3 pour prévisualiser des fichiers PDF dans un canvas, basé sur **pdfjs-dist**. Il permet de naviguer entre plusieurs fichiers, de prévisualiser le contenu, de télécharger le PDF et de personnaliser les dimensions et styles du rendu.
